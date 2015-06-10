@@ -1,0 +1,42 @@
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.csprojResolveAssemblyReference.cache
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\App.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Window1.g.cs
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\App.g.cs
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\Connection.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\Window1.baml
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+E:\Универ\3 курс\2 семестр\Разработка программный приложений\Новая папка\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.exe
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.pdb
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\bin\Debug\DiagramDesigner.exe
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\bin\Debug\DiagramDesigner.pdb
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\Styles\Shared.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\App.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Window1.g.cs
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner_MarkupCompile.lref
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\Connection.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\DesignerItem.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\Stencils\ShapeStencils.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\Toolbox.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Resources\ToolboxItem.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\Window1.baml
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.g.resources
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Zel\DiagramDesigner\obj\Debug\DiagramDesigner.csproj.GenerateResource.Cache
